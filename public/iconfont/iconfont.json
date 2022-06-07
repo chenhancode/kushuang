@@ -1,0 +1,58 @@
+{
+  "id": "3452716",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "55533",
+      "name": "新浪微博",
+      "font_class": "89",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "695468",
+      "name": "QQ",
+      "font_class": "qq1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7006681",
+      "name": "微信公众号",
+      "font_class": "weixingongzhonghao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "731597",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "2668394",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "7567776",
+      "name": "24gl-telephone",
+      "font_class": "24gl-telephone",
+      "unicode": "e953",
+      "unicode_decimal": 59731
+    },
+    {
+      "icon_id": "8327186",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
